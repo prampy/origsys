@@ -1,0 +1,16 @@
+/* This css is specifically for login.php and signup.css */
+
+
+@import "style.css";
+
+.button-container {
+    width: 100%;
+}
+
+.button-container-contents {
+    text-align: center;
+}
+
+.button-container-contents button {
+    margin-top: 15px;
+}
